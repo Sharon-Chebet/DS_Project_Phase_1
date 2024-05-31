@@ -5,13 +5,16 @@ This project aims to explore current box office trends to identify the types of 
 
 Objectives
 
-*  What genres and themes dominate the top ten highest grossing films?
 
-* Which studio has the highest total gross and what are their key strategies
+* Which studio has the highest total gross 
 
 * Which release date or periods yield the highest returns?
 
+
 * How does production budget correlate with worldwide gross revenue?
+
+* How does foreign gross correlates with domestic gross.
+
 
 Key Findings
 
