@@ -1,6 +1,7 @@
 README
 
 <b>Project Overview</b>
+
 This project aims to explore current box office trends to identify the types of films that are performing the best. The findings are translated into actionable insights to guide Microsoft's new movie studio in deciding what types of films to create.
 
 <b>Objectives </b>
@@ -49,5 +50,6 @@ Since there is a positive correlation between domestic and foreign gross, create
 
 
 <b>Conclusion </b>
+
 By following the recommendations outlined in this analysis, Microsoft's new movie studio can effectively navigate the film industry, maximize box office performance, and establish a strong presence in the competitive market. Strategic partnerships, especially with leading studios like BV, and an emphasis on global market adaptation will be crucial in driving success. Scheduling releases during identified peak seasons will further enhance box office returns.
 
