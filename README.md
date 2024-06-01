@@ -20,7 +20,7 @@ Objectives
 *  Which market contributes more significantly to the overall financial sucCess of movies ?
 
 
-Key Findings & Recommendations
+<b>Key Findings & Recommendations</b>
 
 <b>Partnership Opportunities</b>
 
