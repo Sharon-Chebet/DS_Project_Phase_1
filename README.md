@@ -18,7 +18,7 @@ This project aims to explore current box office trends to identify the types of 
 
 * How does foreign gross correlates with domestic gross ?
 
-*  Which market contributes more significantly to the overall financial sucCess of movies ?
+*  Which market contributes more significantly to the overall financial success of movies ?
 
 
 <b>Key Findings & Recommendations</b>
